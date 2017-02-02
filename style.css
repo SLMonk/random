@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
 #button-container {
     text-align: center;
 }
 
 h1 {
-    text-align: center;
+  font-family: 'Bungee', cursive;
+  color: green;
+  text-align: center;
+  font-size: 45px;
 }
