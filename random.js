@@ -1,4 +1,3 @@
-
 var namespace = "http://www.w3.org/2000/svg"
 
 
@@ -7,7 +6,8 @@ var namespace = "http://www.w3.org/2000/svg"
 // Remember, for the shapes to show up on the canvas, you'll need to CALL the function.
 function createFirstScene() {
 makeImage("http://wallpapercave.com/wp/tCqNOtn.jpg",0,0,200,100,1)
-makeImage("http://media2.giphy.com/media/sxXJgb4LCmJ44/200.gif",50,20,10,90)
+makeImage("http://bestanimations.com/Animals/Fish/animated-stingray.gif",75,0,50,60)
+makeImage("http://freepngimages.com/wp-content/uploads/2015/10/clown-fish-transparent-background.png",40,60,10,20)
 }
 
 
