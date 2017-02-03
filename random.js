@@ -8,6 +8,8 @@ function createFirstScene() {
 makeImage("http://wallpapercave.com/wp/tCqNOtn.jpg",0,0,200,100,1)
 makeImage("http://bestanimations.com/Animals/Fish/animated-stingray.gif",75,0,50,60)
 makeImage("http://freepngimages.com/wp-content/uploads/2015/10/clown-fish-transparent-background.png",40,60,10,20)
+makeImage("http://static.wixstatic.com/media/ec6126_4de390b195bd47a09a822bbb6c5ed267.gif_srz_966_483_85_22_0.50_1.20_0.00_gif_srz",40,10,30,30)
+makeImage("http://aquarium-source.com/images/clownfish-animated3.gif",150,50,12,6)
 }
 
 
@@ -16,6 +18,7 @@ makeImage("http://freepngimages.com/wp-content/uploads/2015/10/clown-fish-transp
 // Remember, for the shapes to show up on the canvas, you'll need to CALL the function.
 function createSecondScene() {
   makeImage("https://i.ytimg.com/vi/VMLjLDr6k1A/maxresdefault.jpg",0,0,200,100,1)
+  makeImage("http://dnr2.maryland.gov/fisheries/PublishingImages/horseshoe_crab.gif",100,90,20,10)
 
 }
 
