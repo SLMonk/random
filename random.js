@@ -8,8 +8,14 @@ function createFirstScene() {
 makeImage("http://wallpapercave.com/wp/tCqNOtn.jpg",0,0,200,100,1)
 makeImage("http://bestanimations.com/Animals/Fish/animated-stingray.gif",75,0,50,60)
 makeImage("http://freepngimages.com/wp-content/uploads/2015/10/clown-fish-transparent-background.png",40,60,10,20)
+makeImage("http://bestanimations.com/Animals/Fish/goldfish/goldfish-swimming-animated-gif-10.gif",60,60,50,50)
 makeImage("http://static.wixstatic.com/media/ec6126_4de390b195bd47a09a822bbb6c5ed267.gif_srz_966_483_85_22_0.50_1.20_0.00_gif_srz",40,10,30,30)
 makeImage("http://aquarium-source.com/images/clownfish-animated3.gif",150,50,12,6)
+makeCircle(150,40,10,"Black",0.25)
+makeCircle(155,40,5,"White",0.3)
+makeCircle(156,40,2,"Black",0.3)
+makeEllipse(154,47,3,2,"Black",0.05)
+makePolygon("145,40 135,50 135,30", "Black", 0.15)
 }
 
 
@@ -19,6 +25,14 @@ makeImage("http://aquarium-source.com/images/clownfish-animated3.gif",150,50,12,
 function createSecondScene() {
   makeImage("https://i.ytimg.com/vi/VMLjLDr6k1A/maxresdefault.jpg",0,0,200,100,1)
   makeImage("http://dnr2.maryland.gov/fisheries/PublishingImages/horseshoe_crab.gif",100,90,20,10)
+  makeImage("https://68.media.tumblr.com/bfff0fb03c077c5b433d082fd6829829/tumblr_ojw2z6Vp2d1w3x7tyo1_500.gif",70,10,70,40)
+  makeImage("http://www.few.vu.nl/~nva800/Multimedia%20Authoring/fish/img/crab.gif",70,85,25,15)
+  makeImage("http://24.media.tumblr.com/89be2d347971643110ed9e6dd52e59d7/tumblr_mkafx05ehO1rcruuno1_400.gif",80,40,50,50)
+  makeCircle(120,30,5,"Blue",0)
+  makeCircle(124,30,1,"White",0)
+  makeCircle(124.5,30,0.4,"Black",0)
+  makeEllipse(123,32,1,0.5,"Black",0)
+  makePolygon("120,30 109,40 109,28", "Blue",0)
 
 }
 
@@ -28,6 +42,13 @@ function createSecondScene() {
 // Remember, for the shapes to show up on the canvas, you'll need to CALL the function.
 function createThirdScene() {
   makeImage("https://i.ytimg.com/vi/MiZCeD0EobY/maxresdefault.jpg",0,0,200,100,1)
+  makeImage("http://bestanimations.com/Animals/Fish/Sharks/sharkanimation-6.gif",30,60,100,50)
+  makeImage("http://www.lataco.com/wp-content/uploads/tumblr_mfbj88PfgA1r39x51o1_500.gif",30,10,100,50)
+  makeCircle(150,40,10,"Red",0.95)
+  makeCircle(155,40,5,"White",1)
+  makeCircle(156,40,2,"Black",1)
+  makeEllipse(154,47,3,2,"Black",0.75)
+  makePolygon("145,40 135,50 135,30", "Red", 0.85 )
 
 }
 
